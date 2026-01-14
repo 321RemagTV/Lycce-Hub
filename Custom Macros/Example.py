@@ -1,0 +1,8 @@
+pyperclip.copy("Hello World")
+sleep(0.1)
+pydirectinput.press('/')
+sleep(0.1)
+hotkey('ctrl', 'v')
+sleep(0.1)
+pydirectinput.press('enter')
+sleep(0.1)
